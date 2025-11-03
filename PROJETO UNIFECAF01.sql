@@ -3,8 +3,8 @@
 -- ************************************************************
 
 -- Comando inicial para criar e usar o banco de dados do projeto
-CREATE DATABASE IF NOT EXISTS teste002;
-USE teste002;
+CREATE DATABASE IF NOT EXISTS LITLLEMARKET;
+USE LITTLEMARKET;
 
 -- Comentário: A estrutura das tabelas está organizada em 'Mãe' (entidades independentes) e 'Filhas' (que dependem de outras).
 
